@@ -36,7 +36,7 @@ Startups and small teams. Happy to start with a **small paid task first**. Avail
 
 | Evidence | Link |
 | --- | --- |
-| **NovaClaw** (original Android prototype v0.1 · single-device) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [Full demo (video)](https://github.com/user-attachments/assets/29875163-a0bf-43e2-a328-a04d1b033507) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
+| **NovaClaw** (original Android prototype v0.1 · personal Androids) | [Repo](https://github.com/jc-morales-dev/NovaClaw) · [Full demo (video)](https://github.com/user-attachments/assets/29875163-a0bf-43e2-a328-a04d1b033507) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) |
 | **Chatbot Vortex** (live demo) | [Live](https://chatbot-vortex.vercel.app/) · [Repo](https://github.com/jc-morales-dev/Chatbot-Vortex) · [v1.1.0](https://github.com/jc-morales-dev/Chatbot-Vortex/releases/tag/v1.1.0) |
 | **Portfolio** (live) | [Site](https://julio-cesar-portfolio.vercel.app) · [Repo](https://github.com/jc-morales-dev/julio-cesar-portfolio) |
 | **NEXUS** demo (← G0DM0D3 AGPL) | [Live](https://nexus-exec.vercel.app/) · [Repo](https://github.com/jc-morales-dev/NEXUS) · [demo release](https://github.com/jc-morales-dev/NEXUS/releases/tag/v0.1.0-demo) |
@@ -64,7 +64,7 @@ Startups and small teams. Happy to start with a **small paid task first**. Avail
   </a>
 </p>
 
-Built-from-scratch Android coding agent with embedded Linux + Node.js, BYOK, terminal and phone tools. **Prototype v0.1 tested on one OPPO CPH2557** — early, installable by sideload, not a multi-device production claim.
+Built-from-scratch Android coding agent with embedded Linux + Node.js, BYOK, terminal and phone tools. **Prototype v0.1. Sideload APK for Android (arm64). Not iOS. Author-tested on multiple personal Android phones — not an OEM-certified or production release.**
 
 [Code](https://github.com/jc-morales-dev/NovaClaw) · [Full demo (video)](https://github.com/user-attachments/assets/29875163-a0bf-43e2-a328-a04d1b033507) · [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml)
 
@@ -108,7 +108,7 @@ Multi-model workspace with sandboxed agent. **Derived from [G0DM0D3](https://git
 
 | Project | Status | Checks | Live |
 | --- | --- | --- | --- |
-| NovaClaw | prototype v0.1 · one device | [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) | [repo](https://github.com/jc-morales-dev/NovaClaw) |
+| NovaClaw | prototype v0.1 · personal Androids | [CI](https://github.com/jc-morales-dev/NovaClaw/actions/workflows/ci.yml) | [repo](https://github.com/jc-morales-dev/NovaClaw) |
 | Chatbot Vortex | demo | [CI](https://github.com/jc-morales-dev/Chatbot-Vortex/actions/workflows/ci.yml) | [demo](https://chatbot-vortex.vercel.app/) |
 | Portfolio | active | [CI](https://github.com/jc-morales-dev/julio-cesar-portfolio/actions/workflows/ci.yml) | [site](https://julio-cesar-portfolio.vercel.app) |
 | NEXUS | derived demo | [CI](https://github.com/jc-morales-dev/NEXUS/actions/workflows/ci.yml) | [demo](https://nexus-exec.vercel.app/) |
